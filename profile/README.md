@@ -2,7 +2,7 @@
 https://discord.gg/KXgfUBR
 
 ## 🌸 Current Repos
-[DashBot](https://github.com/dashstarx/DashBot) - Custom Dash Discord Bot
+[Astral](https://github.com/dashstarx/Astral) - Custom Dash Discord Bot
 <!--
 
 **Here are some ideas to get you started:**
