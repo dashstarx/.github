@@ -1,5 +1,4 @@
 # 🐱‍💻 Dash Retarded Programmers
-https://github.com/dashstarx <br>
 https://discord.gg/KXgfUBR
 
 ## 🌸 Current Repos
