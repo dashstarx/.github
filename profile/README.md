@@ -1,15 +1,11 @@
-# 🐱‍💻 Dash Retarded Programmers
+# 🐱‍💻 Dash Retards
 https://discord.gg/KXgfUBR
 
 ## 🌸 Current Repos
 [Astral](https://github.com/dashstarx/Astral) - Custom Dash Discord Bot
-<!--
 
-**Here are some ideas to get you started:**
+## ☄️ Members
+[![Joseph Corsega](https://github.com/watsonjph.png?size=48 "Joseph Corsega")](https://github.com/watsonjph)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+*👉 We can Never Finish Projects btw 👈*
