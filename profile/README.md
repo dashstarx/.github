@@ -1,6 +1,9 @@
-## Dash Retarded Programmers
-https://github.com/dashstarx
+# 🐱‍💻 Dash Retarded Programmers
+https://github.com/dashstarx <br>
+https://discord.gg/KXgfUBR
 
+## 🌸 Current Repos
+[DashBot](https://github.com/dashstarx/DashBot) - Custom Dash Discord Bot
 <!--
 
 **Here are some ideas to get you started:**
