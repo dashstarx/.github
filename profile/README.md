@@ -2,7 +2,7 @@
 https://discord.gg/KXgfUBR
 
 ## 🌸 Current Repos
-[Astral](https://github.com/dashstarx/Astral)                    - Custom Dash Discord Bot
+[Astral](https://github.com/dashstarx/Astral)                    - Custom Dash Discord Bot <br>
 [BaseThread](https://github.com/dashstarx/BaseThread)            - Win Thread and Process Viewer
 
 ## ☄️ Members
