@@ -12,5 +12,6 @@ https://discord.gg/KXgfUBR
     <img src="https://github.com/infinZERO18.png" width="48" height="48" alt="infinZERO18" />
 </a>
 [![Useradd-Ken (KR)](https://github.com/Useradd-Ken.png?size=48 "Useradd-Ken (KR)")](https://github.com/Useradd-Ken)
+[![makinaro](https://github.com/makinaro.png?size=48 "makinaro")](https://github.com/makinaro)
 
 *👉 We can Never Finish Projects btw 👈*
